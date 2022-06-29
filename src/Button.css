@@ -1,16 +1,13 @@
-.maisNoticias{
-    border-radius: 20px;
-    border-style: none;
-
-    padding: 4px 8px;
-    transition: all 0.8s;
-    color: gray;
-    width: fit-content;
-    align-self: flex-end;
-
-    font-size: 16px;
+.container{
+    margin-left: 40px;
+    width: 290px;
+    height: 80px;
+    margin-top: 20px;
+    background-color: #FFF;
+    color: #000;
 }
 
-.maisNoticias:hover{
-    background-color: darkgray;
+.container:hover{
+    background-color: #0085A1;
+    color: #FFF;
 }
