@@ -20,8 +20,8 @@ function App(){
                 sub1={button.sub1}
                 title2={button.title2}
                 sub2={button.sub2}
-                />;
-      }) };
+                />
+      }) }
     </div>
   )
 }
