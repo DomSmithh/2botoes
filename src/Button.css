@@ -1,10 +1,11 @@
 .container{
     margin-left: 30px;
     width: 290px;
-    height: 80px;
+    height: 100px;
     margin-top: 20px;
     background-color: #FFF;
     color: #000;
+    line-height: 1.7em;
 
     border: 1px solid rgb(230, 230, 230);
 }
